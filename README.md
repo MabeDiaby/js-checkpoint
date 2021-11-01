@@ -37,7 +37,7 @@ Work through the series of prompts available in [`lib/`](lib/):
 - [Higher Order Functions](lib/hof.js)
 
 ## Hungry for More?
-Check out [this repo](https://git.generalassemb.ly/SEIR-1130/checkpoint-javascript).
+Check out [this repo](https://git.generalassemb.ly/seir-1018/checkpoint-javascript).
 
 ## Plagiarism
 
